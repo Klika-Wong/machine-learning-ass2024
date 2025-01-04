@@ -1,8 +1,8 @@
-这是第一次写一个额。。小模型的尝试，30000行数据。也包括一种和耿直的方式使用gemini处理数据。
+第一个小模型的尝试，30000行数据。也包括一种和耿直的方式使用gemini处理大规模数据，并尝试取得结果
 
 很费quota
 
-补充，居然不能用jupyter??
+and...github居然不能用jupyter??
 
 This is the first time I have written an article...
 
