@@ -6,3 +6,8 @@ This is the first time I have written an article..
  This also includes a straightforward way of using Gemini to process data.
  Very expensive quota
 Cannot use jupyter? f?
+
+
+use .\venv\Scripts\activate
+or other virtual environment wuth python 3.10
+need pyspark 
